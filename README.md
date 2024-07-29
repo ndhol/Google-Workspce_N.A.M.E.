@@ -1,7 +1,7 @@
 # Google-Workspce_N.A.M.E.
 
 #Google Slide
-# https://www.canva.com/design/DAGMNOc-UBQ/hud5D9xYhNf5FRjvxSlfjw/edit?utm_content=DAGMNOc-UBQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+# https://www.canva.com/design/DAGMNOc-UBQ/EtiI8RUaYnWB0SEipxqfNg/view?utm_content=DAGMNOc-UBQ&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 #Google Sheet
 # https://docs.google.com/spreadsheets/d/1pck0zyibpzJ-_0SBGa0-LQ0L7pI9-9eSUzOnXo3wWGY/edit?usp=sharing
