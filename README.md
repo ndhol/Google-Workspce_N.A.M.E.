@@ -13,4 +13,4 @@
 # https://script.google.com/d/1tk_g6lETgxlt-wGpA-eXdC0zjINtWcJjn16cGYau-3BH8eyqmLYQV0j8/edit?usp=sharing
 
 #App Sheet
-# https://www.appsheet.com/start/2ec0c43d-b2dd-48eb-be4d-d04c4e8c9e86?newUser=true&onboarding=true&platform=desktop#viewStack[0][identifier][Type]=Control&viewStack[0][identifier][Name]=Histogram%20for%20Email%20Analysis&appName=GroceryShopMarketingEmail-212630762
+# https://www.appsheet.com/start/2ec0c43d-b2dd-48eb-be4d-d04c4e8c9e86
